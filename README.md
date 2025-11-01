@@ -1,2 +1,2 @@
 # GKE Autopilot Terraform Template
-Consisting of private GKE cluster and a bastion for cluster access. Service account provisioning included
+Consisting of private GKE cluster and a bastion for cluster access. 
